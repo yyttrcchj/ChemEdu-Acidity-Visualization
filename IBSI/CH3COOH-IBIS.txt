@@ -1,0 +1,27 @@
+ Note: "Dist" is distance between the two atoms in Angstrom, Int(dg_pair) is the integral in the numerator of the IBSI formule (atomic pair delta-g index)
+
+    1(C )    2(C )  Dist:  1.4932   Int(dg_pair): 0.69115   IBSI: 0.54706
+    1(C )    3(O )  Dist:  2.4124   Int(dg_pair): 0.14687   IBSI: 0.04454
+    1(C )    4(O )  Dist:  2.3655   Int(dg_pair): 0.14114   IBSI: 0.04451
+    1(C )    5(H )  Dist:  1.0863   Int(dg_pair): 0.45222   IBSI: 0.67633
+    1(C )    6(H )  Dist:  1.0915   Int(dg_pair): 0.44738   IBSI: 0.66275
+    1(C )    7(H )  Dist:  1.0913   Int(dg_pair): 0.44764   IBSI: 0.66331
+    1(C )    8(H )  Dist:  3.2048   Int(dg_pair): 0.01859   IBSI: 0.00319
+    2(C )    3(O )  Dist:  1.2155   Int(dg_pair): 0.96883   IBSI: 1.15719
+    2(C )    4(O )  Dist:  1.3509   Int(dg_pair): 0.72829   IBSI: 0.70432
+    2(C )    5(H )  Dist:  2.1263   Int(dg_pair): 0.11042   IBSI: 0.04310
+    2(C )    6(H )  Dist:  2.1231   Int(dg_pair): 0.11219   IBSI: 0.04392
+    2(C )    7(H )  Dist:  2.1248   Int(dg_pair): 0.11197   IBSI: 0.04377
+    2(C )    8(H )  Dist:  1.8974   Int(dg_pair): 0.11469   IBSI: 0.05622
+    3(O )    4(O )  Dist:  2.2450   Int(dg_pair): 0.16595   IBSI: 0.05811
+    3(O )    5(H )  Dist:  2.5732   Int(dg_pair): 0.04337   IBSI: 0.01156
+    3(O )    6(H )  Dist:  3.1044   Int(dg_pair): 0.01895   IBSI: 0.00347
+    3(O )    7(H )  Dist:  3.1146   Int(dg_pair): 0.01868   IBSI: 0.00340
+    3(O )    8(H )  Dist:  2.3028   Int(dg_pair): 0.05907   IBSI: 0.01966
+    4(O )    5(H )  Dist:  3.2893   Int(dg_pair): 0.01357   IBSI: 0.00221
+    4(O )    6(H )  Dist:  2.6367   Int(dg_pair): 0.03530   IBSI: 0.00896
+    4(O )    7(H )  Dist:  2.6271   Int(dg_pair): 0.03581   IBSI: 0.00916
+    4(O )    8(H )  Dist:  0.9736   Int(dg_pair): 0.37658   IBSI: 0.70107
+    5(H )    6(H )  Dist:  1.7843   Int(dg_pair): 0.08737   IBSI: 0.04843
+    5(H )    7(H )  Dist:  1.7846   Int(dg_pair): 0.08732   IBSI: 0.04838
+    6(H )    7(H )  Dist:  1.7607   Int(dg_pair): 0.09029   IBSI: 0.05140

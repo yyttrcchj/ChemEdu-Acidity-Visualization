@@ -1,0 +1,12 @@
+ Note: "Dist" is distance between the two atoms in Angstrom, Int(dg_pair) is the integral in the numerator of the IBSI formule (atomic pair delta-g index)
+
+    1(H )    2(C )  Dist:  1.0947   Int(dg_pair): 0.44364   IBSI: 0.65330
+    1(H )    3(O )  Dist:  2.0387   Int(dg_pair): 0.11725   IBSI: 0.04978
+    1(H )    4(O )  Dist:  2.0047   Int(dg_pair): 0.11197   IBSI: 0.04917
+    1(H )    5(H )  Dist:  2.8223   Int(dg_pair): 0.01636   IBSI: 0.00362
+    2(C )    3(O )  Dist:  1.2092   Int(dg_pair): 0.97095   IBSI: 1.17182
+    2(C )    4(O )  Dist:  1.3368   Int(dg_pair): 0.73826   IBSI: 0.72902
+    2(C )    5(H )  Dist:  1.8968   Int(dg_pair): 0.11370   IBSI: 0.05577
+    3(O )    4(O )  Dist:  2.2584   Int(dg_pair): 0.16185   IBSI: 0.05600
+    3(O )    5(H )  Dist:  2.3512   Int(dg_pair): 0.05462   IBSI: 0.01744
+    4(O )    5(H )  Dist:  0.9759   Int(dg_pair): 0.37328   IBSI: 0.69166

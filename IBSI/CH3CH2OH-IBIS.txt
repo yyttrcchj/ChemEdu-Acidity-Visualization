@@ -1,0 +1,35 @@
+ Note: "Dist" is distance between the two atoms in Angstrom, Int(dg_pair) is the integral in the numerator of the IBSI formule (atomic pair delta-g index)
+
+    1(C )    2(C )  Dist:  1.5106   Int(dg_pair): 0.68264   IBSI: 0.52791
+    1(C )    3(O )  Dist:  2.3984   Int(dg_pair): 0.13427   IBSI: 0.04119
+    1(C )    4(H )  Dist:  1.0919   Int(dg_pair): 0.45276   IBSI: 0.67015
+    1(C )    5(H )  Dist:  1.0922   Int(dg_pair): 0.45408   IBSI: 0.67174
+    1(C )    6(H )  Dist:  1.0922   Int(dg_pair): 0.45395   IBSI: 0.67158
+    1(C )    7(H )  Dist:  2.1531   Int(dg_pair): 0.10448   IBSI: 0.03978
+    1(C )    8(H )  Dist:  2.1532   Int(dg_pair): 0.10446   IBSI: 0.03976
+    1(C )    9(H )  Dist:  3.2323   Int(dg_pair): 0.01826   IBSI: 0.00308
+    2(C )    3(O )  Dist:  1.4413   Int(dg_pair): 0.63989   IBSI: 0.54360
+    2(C )    4(H )  Dist:  2.1437   Int(dg_pair): 0.10793   IBSI: 0.04144
+    2(C )    5(H )  Dist:  2.1572   Int(dg_pair): 0.10675   IBSI: 0.04048
+    2(C )    6(H )  Dist:  2.1574   Int(dg_pair): 0.10675   IBSI: 0.04048
+    2(C )    7(H )  Dist:  1.0945   Int(dg_pair): 0.45413   IBSI: 0.66897
+    2(C )    8(H )  Dist:  1.0946   Int(dg_pair): 0.45432   IBSI: 0.66921
+    2(C )    9(H )  Dist:  1.9635   Int(dg_pair): 0.10569   IBSI: 0.04838
+    3(O )    4(H )  Dist:  3.3485   Int(dg_pair): 0.01217   IBSI: 0.00192
+    3(O )    5(H )  Dist:  2.6657   Int(dg_pair): 0.03455   IBSI: 0.00858
+    3(O )    6(H )  Dist:  2.6664   Int(dg_pair): 0.03448   IBSI: 0.00856
+    3(O )    7(H )  Dist:  2.0820   Int(dg_pair): 0.10105   IBSI: 0.04114
+    3(O )    8(H )  Dist:  2.0824   Int(dg_pair): 0.10107   IBSI: 0.04113
+    3(O )    9(H )  Dist:  0.9659   Int(dg_pair): 0.39475   IBSI: 0.74672
+    4(H )    5(H )  Dist:  1.7692   Int(dg_pair): 0.09074   IBSI: 0.05116
+    4(H )    6(H )  Dist:  1.7694   Int(dg_pair): 0.09072   IBSI: 0.05114
+    4(H )    7(H )  Dist:  2.4839   Int(dg_pair): 0.02773   IBSI: 0.00793
+    4(H )    8(H )  Dist:  2.4844   Int(dg_pair): 0.02772   IBSI: 0.00793
+    5(H )    6(H )  Dist:  1.7740   Int(dg_pair): 0.09044   IBSI: 0.05072
+    5(H )    7(H )  Dist:  2.5014   Int(dg_pair): 0.02762   IBSI: 0.00779
+    5(H )    8(H )  Dist:  3.0657   Int(dg_pair): 0.01343   IBSI: 0.00252
+    6(H )    7(H )  Dist:  3.0657   Int(dg_pair): 0.01342   IBSI: 0.00252
+    6(H )    8(H )  Dist:  2.5015   Int(dg_pair): 0.02761   IBSI: 0.00779
+    7(H )    8(H )  Dist:  1.7708   Int(dg_pair): 0.08772   IBSI: 0.04937
+    7(H )    9(H )  Dist:  2.3109   Int(dg_pair): 0.03166   IBSI: 0.01046
+    8(H )    9(H )  Dist:  2.3183   Int(dg_pair): 0.03141   IBSI: 0.01031

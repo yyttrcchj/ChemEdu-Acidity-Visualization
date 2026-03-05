@@ -1,0 +1,36 @@
+ Global surface minimum: -0.064500 a.u. at  -3.046625   5.277832  -0.404026 Ang
+ Global surface maximum:  0.104097 a.u. at  -0.884916   4.233825   3.451000 Ang
+
+ The number of surface minima:     2
+   #       a.u.         eV      kcal/mol           X/Y/Z coordinate(Angstrom)
+*    1 -0.06449987   -1.755131  -40.474314      -3.046625   5.277832  -0.404026
+     2 -0.01976104   -0.537725  -12.400252      -1.314388   1.021975   3.047977
+
+ The number of surface maxima:     2
+   #       a.u.         eV      kcal/mol           X/Y/Z coordinate(Angstrom)
+     1  0.04993241    1.358730   31.333088      -2.931049   0.833569   0.191866
+*    2  0.10409737    2.832633   65.322139      -0.884916   4.233825   3.451000
+
+       ================= Summary of surface analysis =================
+
+ Volume:   372.58842 Bohr^3  (  55.21191 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    1.3842 g/cm^3
+ Minimal value:    -40.47431 kcal/mol   Maximal value:     65.32214 kcal/mol
+ Overall surface area:         263.70363 Bohr^2  (  73.84454 Angstrom^2)
+ Positive surface area:        143.50588 Bohr^2  (  40.18574 Angstrom^2)
+ Negative surface area:        120.19775 Bohr^2  (  33.65880 Angstrom^2)
+ Overall average value:    0.00414786 a.u. (      2.60283 kcal/mol)
+ Positive average value:   0.03434634 a.u. (     21.55267 kcal/mol)
+ Negative average value:  -0.03190655 a.u. (    -20.02168 kcal/mol)
+ Overall variance (sigma^2_tot):  0.00098848 a.u.^2 (   389.23419 (kcal/mol)^2)
+ Positive variance:        0.00057104 a.u.^2 (    224.85881 (kcal/mol)^2)
+ Negative variance:        0.00041744 a.u.^2 (    164.37537 (kcal/mol)^2)
+ Balance of charges (nu):   0.24396342
+ Product of sigma^2_tot and nu:   0.00024115 a.u.^2 (   94.95890 (kcal/mol)^2)
+ Internal charge separation (Pi):   0.03299988 a.u. (     20.70775 kcal/mol)
+ Molecular polarity index (MPI):   0.90435048 eV (     20.85484 kcal/mol)
+ Nonpolar surface area (|ESP| <= 10 kcal/mol):     19.94 Angstrom^2  ( 27.00 %)
+ Polar surface area (|ESP| > 10 kcal/mol):         53.91 Angstrom^2  ( 73.00 %)
+ Overall skewness:         0.2686762168
+ Positive skewness:        0.9947427997
+ Negative skewness:       -0.0601778621

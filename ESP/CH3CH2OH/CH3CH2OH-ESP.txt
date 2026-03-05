@@ -1,0 +1,39 @@
+ Global surface minimum: -0.067866 a.u. at  -2.693370   3.474842   1.204920 Ang
+ Global surface maximum:  0.079172 a.u. at   0.880336   3.070881   0.799332 Ang
+
+ The number of surface minima:     2
+   #       a.u.         eV      kcal/mol           X/Y/Z coordinate(Angstrom)
+*    1 -0.06786583   -1.846723  -42.586485      -2.693370   3.474842   1.204920
+     2  0.01839378    0.500520   11.542283       0.414744   0.029683  -0.389507
+
+ The number of surface maxima:     5
+   #       a.u.         eV      kcal/mol           X/Y/Z coordinate(Angstrom)
+     1  0.00668226    0.181834    4.193188      -3.757315   1.776331  -1.851796
+     2  0.00665551    0.181106    4.176399      -3.615232   0.029683   2.068535
+     3  0.02235707    0.608367   14.029286      -2.134729  -1.526169  -0.901996
+     4  0.02208898    0.601072   13.861054      -0.837051  -0.557398  -0.545680
+*    5  0.07917230    2.154388   49.681407       0.880336   3.070881   0.799332
+
+       ================= Summary of surface analysis =================
+
+ Volume:   517.88214 Bohr^3  (  76.74221 Angstrom^3)
+ Estimated density according to mass and volume (M/V):    0.9968 g/cm^3
+ Minimal value:    -42.58648 kcal/mol   Maximal value:     49.68141 kcal/mol
+ Overall surface area:         337.46662 Bohr^2  (  94.50028 Angstrom^2)
+ Positive surface area:        211.18614 Bohr^2  (  59.13814 Angstrom^2)
+ Negative surface area:        126.28048 Bohr^2  (  35.36214 Angstrom^2)
+ Overall average value:    0.00162475 a.u. (      1.01954 kcal/mol)
+ Positive average value:   0.01883777 a.u. (     11.82089 kcal/mol)
+ Negative average value:  -0.02716160 a.u. (    -17.04417 kcal/mol)
+ Overall variance (sigma^2_tot):  0.00075298 a.u.^2 (   296.50007 (kcal/mol)^2)
+ Positive variance:        0.00027655 a.u.^2 (    108.89610 (kcal/mol)^2)
+ Negative variance:        0.00047643 a.u.^2 (    187.60397 (kcal/mol)^2)
+ Balance of charges (nu):   0.23238321
+ Product of sigma^2_tot and nu:   0.00017498 a.u.^2 (   68.90164 (kcal/mol)^2)
+ Internal charge separation (Pi):   0.02160032 a.u. (     13.55442 kcal/mol)
+ Molecular polarity index (MPI):   0.59735954 eV (     13.77545 kcal/mol)
+ Nonpolar surface area (|ESP| <= 10 kcal/mol):     41.93 Angstrom^2  ( 44.36 %)
+ Polar surface area (|ESP| > 10 kcal/mol):         52.58 Angstrom^2  ( 55.64 %)
+ Overall skewness:        -0.4359628039
+ Positive skewness:        1.6329613575
+ Negative skewness:       -0.3889712126

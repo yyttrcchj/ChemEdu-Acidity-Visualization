@@ -1,0 +1,6 @@
+ Minimal, maximal and average value are in eV, variance is in eV^2
+  Atom#      Area(Ang^2)  Min value   Max value       Average        Variance
+      1        18.42476   12.016492   14.659540      13.473129       0.488485
+      2         3.97691   12.936826   14.656243      14.002655       0.122134
+      3        27.55176   11.013421   14.685992      12.528993       0.682358
+      4        27.55546   11.014149   14.690412      12.533831       0.684167
