@@ -24,6 +24,6 @@ If you reuse or modify any images from this repository (e.g., in slides, researc
 
 If you use any data or images from this project, please cite the following work:
 
-> **Yu Tian-Zhu, Li Ke-Jia, Yan Zhao-Xiong, Xu Zhi-Hua. "Visualized Teaching Research on Acidity Mechanisms of Organic Acids Based on Computational Chemistry: A Case Study of Carbonic Acid and Phenol." (In Preparation/Submitted).**
+> **Yu Tian-Zhu, Li Ke-Jia, Yan Zhao-Xiong, Xu Zhi-Hua. "Computational Chemistry-Assisted Visualization Teaching of Organic Acid Acidity: A Case Study of Carbonic Acid and Phenol." (In Preparation/Submitted).**
 
 ---
