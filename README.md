@@ -1,4 +1,4 @@
-# Visual-teaching-research
+# ChemEdu-Acidity-Visualization
 
 This repository provides high-resolution visualization resources and computational data supporting research in **Chemistry Education**. It contains various theoretical descriptors and electronic structure analysis results designed for educational demonstrations and scientific communication.
 
