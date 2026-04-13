@@ -1,0 +1,15 @@
+! wB97M-V def2-TZVP def2/J RIJCOSX strongSCF noautostart miniprint
+%maxcore     1000
+%pal nprocs  32 end
+%cpcm
+smd true
+SMDsolvent "water"
+end
+* xyz   0   1
+O     -1.46680960    0.96765575    0.15593113
+C     -0.31361034    1.64294462    0.16978670
+O     -0.20308603    2.84893587    0.12593919
+O      0.69785865    0.77200398    0.23855671
+H     -2.19546891    1.60874247    0.10717673
+H      1.53131622    1.27161731    0.24640956
+*

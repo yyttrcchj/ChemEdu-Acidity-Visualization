@@ -1,0 +1,14 @@
+! B3LYP D3 def2-TZVP(-f) def2/J RIJCOSX opt freq tightSCF noautostart miniprint
+%maxcore     1000
+%pal nprocs  32 end
+%cpcm
+smd true
+SMDsolvent "water"
+end
+* xyz   -1   1
+O     -1.68400000    0.93320000   -0.04220000
+C     -0.31320000    1.56610000   -0.02820000
+O     -0.17700000    3.06990000   -0.01530000
+O      0.91830000    0.69660000    0.05910000
+H     -2.40850000    1.60870000    0.45870000
+*
