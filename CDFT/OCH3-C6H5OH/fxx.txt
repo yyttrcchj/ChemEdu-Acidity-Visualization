@@ -1,0 +1,35 @@
+ Delocalization index of     1(C )   --    4(C ):    0.097040
+ Delocalization index of     2(C )   --    5(C ):    0.100457
+ Delocalization index of     3(C )   --    6(C ):    0.070575
+ PDI value is    0.089358
+
+         Atom pair         Contribution          DI
+    1(C )  --    2(C ):       0.000002        1.473285
+    2(C )  --    3(C ):       0.001769        1.330052
+    3(C )  --    4(C ):       0.002571        1.301878
+    4(C )  --    5(C ):       0.000135        1.509665
+    5(C )  --    6(C ):       0.001007        1.360990
+    6(C )  --    1(C ):       0.000435        1.397035
+ FLU value is    0.005919
+
+         Atom pair         Contribution  Bond length(Angstrom)
+    1(C )  --    2(C ):      -0.002002        1.394828
+    2(C )  --    3(C ):      -0.036358        1.417095
+    3(C )  --    4(C ):      -0.052976        1.423120
+    4(C )  --    5(C ):      -0.000104        1.386441
+    5(C )  --    6(C ):      -0.001777        1.394432
+    6(C )  --    1(C ):      -0.000405        1.391071
+ HOMA value is    0.906378
+
+ Electron density at CP  7:   0.3131762820  Local entropy:   0.2982209102
+ Electron density at CP  8:   0.3194271016  Local entropy:   0.3008239861
+ Electron density at CP 13:   0.3200133251  Local entropy:   0.3010647631
+ Electron density at CP 15:   0.3187039375  Local entropy:   0.3005261776
+ Electron density at CP 14:   0.3051544372  Local entropy:   0.2947831406
+ Electron density at CP  9:   0.3083657234  Local entropy:   0.2961726074
+ Total electron density:   1.8848408069
+ Total Shannon entropy:   1.7915915850
+ Expected maximum Shannon entropy:   1.7917594692
+
+ Shannon aromaticity index:    0.0001678842
+

@@ -1,0 +1,133 @@
+
+   ____    _    _   _ _______        _______ _   _ 
+  | __ )  / \  | \ | | ____\ \      / /  ___| \ | |
+  |  _ \ / _ \ |  \| |  _|  \ \ /\ / /| |_  |  \| |
+  | |_) / ___ \| |\  | |___  \ V  V / |  _| | |\  |
+  |____/_/   \_\_| \_|_____|  \_/\_/  |_|   |_| \_|
+  Author: Bane Dysta
+  Feedback: https://github.com/bane-dysta/banewfn
+  Tips: 
+  This program only performs a workflow for Multiwfn, so if you use this program for publication,
+    you should cite Multiwfn as Prof. Lu mentioned in its manual.
+  If you would like to cite this program as well, you can use:
+    Chiyuan Wei, banewfn, Version 1.3, https://github.com/bane-dysta/banewfn (accessed on day month year)
+    
+Let's start Multiwfn analysis!
+
+ Multiwfn -- A Multifunctional Wavefunction Analyzer
+ Version 2026.6.2 (release date is the same as version name)
+ Developer: Tian Lu (Beijing Kein Research Center for Natural Sciences)
+ Multiwfn official website: http://sobereva.com/multiwfn
+ Multiwfn English forum: http://sobereva.com/wfnbbs
+ Multiwfn Chinese forum: http://bbs.keinsci.com/wfn
+ ( Number of parallel threads:   6  Current date: 2026-07-04  Time: 20:52:43 )
+ 
+ Both following papers ***MUST BE CITED IN MAIN TEXT*** if Multiwfn is used:
+  Tian Lu, Feiwu Chen, J. Comput. Chem., 33, 580 (2012) DOI: 10.1002/jcc.22885
+  Tian Lu, J. Chem. Phys., 161, 082503 (2024) DOI: 10.1063/5.0216272
+ See "How to cite Multiwfn.pdf" in Multiwfn binary package for more information
+ 
+ Please wait...
+ Title line: Coordinates from ORCA-job C6H5OH_selected E -307.422547757046
+ Totally      13 atoms
+
+ Loaded C6H5OH_selected.xyz successfully!
+ 
+ Formula: H6 C6 O1      Total atoms:      13
+ Molecule weight:        94.11146 Da
+ Point group: Cs 
+ 
+ "q": Exit program gracefully          "r": Load a new file
+                    ************ Main function menu ************
+ 0 Show molecular structure and view orbitals
+ 1 Output all properties at a point       2 Topology analysis
+ 3 Output and plot specific property in a line
+ 4 Output and plot specific property in a plane
+ 5 Output and plot specific property within a spatial region (calc. grid data)
+ 6 Check & modify wavefunction
+ 7 Population analysis and calculation of atomic charges
+ 8 Orbital composition analysis           9 Bond order analysis
+ 10 Plot total DOS, PDOS, OPDOS, local DOS, COHP and photoelectron spectrum
+ 11 Plot IR/Raman/UV-Vis/ECD/VCD/ROA/NMR spectrum
+ 12 Quantitative analysis of molecular surface
+ 13 Process grid data (No grid data is presented currently)
+ 14 Adaptive natural density partitioning (AdNDP) analysis
+ 15 Fuzzy atomic space analysis
+ 16 Charge decomposition analysis (CDA) and plot orbital interaction diagram
+ 17 Basin analysis                       18 Electron excitation analysis
+ 19 Orbital localization analysis        20 Visual study of weak interaction
+ 21 Energy decomposition analysis        22 Conceptual DFT (CDFT) analysis
+ 23 ETS-NOCV analysis                    24 (Hyper)polarizability analysis
+ 25 Electron delocalization and aromaticity analyses
+ 26 Structure and geometry related analyses
+ 100 Other functions (Part 1)            200 Other functions (Part 2)
+ 300 Other functions (Part 3)
+ 
+    ================ Delocalization and aromaticity analyses ===============
+  0 Return to main menu
+  1 Multicenter bond order
+ -1 Multicenter bond order in NAO basis
+  2 AV1245 index
+  3 Iso-chemical shielding surface (ICSS)
+  4 NICS_ZZ for non-planar or tilted system
+  5 ELF-sigma/pi and LOL-sigma/pi
+  6 Harmonic oscillator measure of aromaticity (HOMA) and Bird indices
+  6a HOMAc (reparameterized HOMA)   6b HOMER (HOMA for excited states)
+  7 Shannon aromaticity index
+  8 Para-delocalization index (PDI)
+  9 Aromatic fluctuation index (FLU) and FLU-pi
+ 10 Para linear response index (PLR)
+ 11 Information-theoretic (ITA) aromaticity index
+ 12 Properties of ring critical point
+ 13 NICS-1D scan curve map, integral NICS (INICS) and FiPC-NICS
+ 14 NICS-2D scan plane map
+ -10 Return to main menu
+ Draw which kind of map?
+ 1 Color-filled map (with/without contour lines)
+ 2 Contour line map
+ 3 Relief map
+ 4 Shaded relief map
+ 5 Shaded relief map with projection
+  -10 Return to main menu
+ How many grids in the two dimensions, respectively?
+ If press ENTER button directly, the recommended 100,100 will be used
+ 
+  -10 Return to main menu
+ Please define the plane to be plotted
+ 1: XY plane   2: XZ plane   3: YZ plane
+ 4: Define by three atoms    5: Define by three given points
+ 6: Input origin and translation vector (For expert users)
+ 7: Parallel to a bond and meantime normal to a plane defined by three atoms
+ 8: Above or below the plane consisting of specific atoms
+ 0: Set extension distance for plane type 1~5, current:  4.5000 Bohr
+ -1: Set translation and rotation of the map for plane types 4, 5 and 8
+ Input indices of the atoms to define the fitting plane and geometric center
+ e.g. 3,8,10-15,19
+ The unit normal vector is   -0.14514547    0.00230575    0.98940764
+ 
+ Input distance between plotting plane and geometric center in Angstrom, e.g. 1
+ Positive and negative values corresponding to above and below the plane
+ Input length of the plotting plane in Angstrom, e.g. 5.5
+ Hint: Usually 6 Angstrom is adequate for studying a six-membered ring. For a larger region, use a larger value
+ Command of drawing the plotting plane in VMD:
+draw triangle {   0.112   5.042   1.060} {  -4.736   1.578   0.357} {   3.538   0.144   1.574}
+draw triangle {  -4.736   1.578   0.357} {   3.538   0.144   1.574} {  -1.310  -3.321   0.871}
+draw material Transparent
+ 
+ X/Y/Z of origin of the plane:   -8.94980   2.98220   0.67479 Bohr
+ X/Y/Z of end of the plane:       6.52964   0.29857   2.95187 Bohr
+ X/Y/Z of translation vector 1:  0.09162  0.06547  0.01329 Bohr, Norm:  0.11338
+ X/Y/Z of translation vector 2:  0.06474 -0.09257  0.00971 Bohr, Norm:  0.11338
+ 
+ 1 Generate Gaussian input file for NICS-2D scanning
+ 2 Load Gaussian output file of NICS-2D scanning
+ Input the path of Gaussian template file of performing NMR task
+ e.g. D:\Aqours\Mari\shiny.gjf
+ Note: In this file, the coordinate part should be recorded as [geometry], which will be automatically replaced with current geometry
+ NICS_2D.gjf has been generated in current folder! Please check it, and then run it by Gaussian manually
+ 
+ 1 Generate Gaussian input file for NICS-2D scanning
+ 2 Load Gaussian output file of NICS-2D scanning
+ 
+ 1 Generate Gaussian input file for NICS-2D scanning
+ 2 Load Gaussian output file of NICS-2D scanning

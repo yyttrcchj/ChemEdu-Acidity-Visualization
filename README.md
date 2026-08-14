@@ -11,7 +11,9 @@ The repository is organized by theoretical analysis methods:
 - **`ESP/`**: Electrostatic Potential (ESP) surfaces, illustrating molecular polarity and interaction sites.
 - **`HOMA/`**: Harmonic Oscillator Model of Aromaticity (HOMA) indices for evaluating aromatic character.
 - **`IBSI/`**: Intrinsic Bond Strength Index (IBSI) files, detailing chemical bond stabilities.
-- **`free_energy_calculation.txt`**: Detailed breakdown of thermodynamic property calculations.
+- **`NICS/`**: Nuclear Independent Chemical Shift (NICS) outputs and visualizations for phenol derivatives.
+- **`Frequency_visualization/`**: GIF animations of selected lowest-frequency vibrational modes.
+- **`ORCA_calculate/`**: ORCA inputs, optimized structures, and wavefunction files organized by neutral acids and conjugate bases.
 
 ## License
 
@@ -24,6 +26,6 @@ If you reuse or modify any images from this repository (e.g., in slides, researc
 
 If you use any data or images from this project, please cite the following work:
 
-> **Yu Tian-Zhu, Li Ke-Jia, Yan Zhao-Xiong, Xu Zhi-Hua. "Computational Chemistry-Assisted Visualization Teaching of Organic Acid Acidity: A Case Study of Carbonic Acid and Phenol." (In Preparation/Submitted).**
+> **Tianzhu Yu, Kejia Li, Lin Gao, Shuyi Wei, Zhaoxiong Yan, Zhihua Xu. "Visualization-Guided Teaching of Organic Acid Acidity via Computational Chemistry: Bridging Electronic Structure and Acid-Base Reasoning." (In Preparation/Submitted).**
 
 ---
