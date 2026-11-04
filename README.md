@@ -24,8 +24,12 @@ If you reuse or modify any images from this repository (e.g., in slides, researc
 
 ## Citation
 
-If you use any data or images from this project, please cite the following work:
+If you use any data or images from this project, please cite the following article:
 
-> **Tianzhu Yu, Kejia Li, Lin Gao, Shuyi Wei, Zhaoxiong Yan, Zhihua Xu. "Visualization-Guided Teaching of Organic Acid Acidity via Computational Chemistry: Bridging Electronic Structure and Acid-Base Reasoning." (In Preparation/Submitted).**
+> **"Visualization-Guided Teaching of Organic Acid Acidity via Computational Chemistry: Bridging Electronic Structure and Acid–Base Reasoning."**  
+> *Journal of Chemical Education*. DOI: [10.1021/acs.jchemed.6c00581](https://doi.org/10.1021/acs.jchemed.6c00581)
+
+📖 **Read the Full Article:**  
+The full text of the article is available via ACS Publications: [https://doi.org/10.1021/acs.jchemed.6c00581](https://doi.org/10.1021/acs.jchemed.6c00581)
 
 ---
